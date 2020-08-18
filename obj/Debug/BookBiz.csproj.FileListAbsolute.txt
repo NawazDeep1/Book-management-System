@@ -1,0 +1,57 @@
+C:\Users\Admin\Desktop\New folder\BookBiz\bin\Debug\BookBiz.exe.config
+C:\Users\Admin\Desktop\New folder\BookBiz\bin\Debug\BookBiz.exe
+C:\Users\Admin\Desktop\New folder\BookBiz\bin\Debug\BookBiz.pdb
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.GUI.Book.resources
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.GUI.Client.resources
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.GUI.Order.resources
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.GUI.Start.resources
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.exe
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.pdb
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.GUI.Employee.resources
+C:\Users\Admin\Desktop\New folder\BookBiz\obj\Debug\BookBiz.GUI.User.resources
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.Books.resources
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.Clients.resources
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.Employees.resources
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.Orders.resources
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.Starting.resources
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.User.resources
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.Properties.Resources.resources
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.exe
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.pdb
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\bin\Debug\BookBiz.exe.config
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\bin\Debug\BookBiz.exe
+C:\Users\Admin\Downloads\20200805164035_BookBiz\BookBiz\bin\Debug\BookBiz.pdb
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.Books.resources
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.Clients.resources
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.Employees.resources
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.Orders.resources
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.Starting.resources
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.GUI.User.resources
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.Properties.Resources.resources
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.exe
+C:\Users\Admin\Downloads\Lasalle college\20200805164035_BookBiz\BookBiz\obj\Debug\BookBiz.pdb
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.csprojAssemblyReference.cache
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.GUI.Books.resources
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.GUI.Clients.resources
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.GUI.Employees.resources
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.GUI.Orders.resources
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.GUI.Starting.resources
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.GUI.User.resources
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.Properties.Resources.resources
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.csproj.GenerateResource.cache
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.csproj.CoreCompileInputs.cache
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.exe
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\obj\Debug\BookBiz.pdb
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\bin\Debug\BookBiz.exe.config
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\bin\Debug\BookBiz.exe
+D:\LASALLE COLLEGE\sem 2\oops\BookBiz\bin\Debug\BookBiz.pdb
